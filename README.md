@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isurumadhushan24572
+- 👋 Hi, I’m @isurumadhushan
 - 👀 I’m interested in Data Driven Decision Making
 - 🌱 I’m currently follwing my bachlor in Data Science
 - 💞️ I’m looking to collaborate on ...
