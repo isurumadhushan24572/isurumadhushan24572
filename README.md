@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isurumadhushan
+- 👋 Hi, I’m Isuru Madhushan
 - 👀 I’m interested in Data Driven Decision Making
 - 🌱 I’m currently follwing my bachlor in Data Science
 - 💞️ I’m looking to collaborate on AI and ML Projects
